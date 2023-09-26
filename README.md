@@ -21,6 +21,14 @@ The Global Database on Whole Life Carbon, Energy Use, and Material Intensity of 
 
 The data published with this descriptor offers the largest open compilation of data on whole life carbon emissions, energy use and material intensity of buildings published to date. This open dataset is expected to be valuable for research applications in the context of MFA, I/O and LCA modelling. It also offers a unique data source for benchmarking whole life carbon, energy use and material intensity of buildings to inform policy and decision-making in the context of the decarbonization of building construction and operation as well as commercial real estate in Europe and beyond.
 
+# Files
+All files related to this descriptor are available on a public GitHub repository and related release via Zenodo (https://doi.org/10.5281/zenodo.8363895). The repository contains the following files:
+* README.md is a text file with instructions on how to use the files and documents.
+* CarbEnMats_attributes.XLSX is a table with the complete attribute description.
+* CarbEnMats_materials.XLSX is the table of material options and mappings.
+* CarbEnMats_dataset.XLSX is the building dataset in MS Excel format.
+* CarbEnMats_dataset.txt is the building dataset in tab-delimited TXT format.
+
 # Further information
 Please consult the related data descriptor article (linked at the top) for further information, e.g.:
 * Methods (Data collection; data processing)
