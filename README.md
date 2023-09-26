@@ -33,3 +33,8 @@ The dataset, the data collection template as well as the code used for processin
 
 # Contributing
 The CarbEnMats-Buildings database is the results of a highly collaborative effort and needs your active contributions to further improve and grow the open building data landscape. Reach out to the lead author (email, linkedin) if you are interested to contribute your data or time. 
+
+# Cite as
+When referring to this work, please cite both the descriptor and the dataset:
+* Descriptor: RÖCK, Martin, SORENSEN, Andreas, BALOUKTSI, Maria, RUSCHI MENDES SAADE, Marcella, RASMUSSEN, Freja Nygaard, BIRGISDOTTIR, Harpa, FRISCHKNECHT, Rolf, LÜTZKENDORF, Thomas, HOXHA, Endrit, HABERT, Guillaume, SATOLA, Daniel, TRUGER, Barbara, TOZAN, Buket, KUITTINEN, Matti, ALAUX, Nicolas, ALLACKER, Karen, & PASSER, Alexader. (2023). A Global Database on Whole Life Carbon, Energy and Material Intensity of Buildings (CarbEnMats-Buildings) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.8378939
+* Dataset: Martin Röck. (2023). mroeck/carbenmats-buildings: Pre-release (0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8363895
