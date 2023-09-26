@@ -2,10 +2,10 @@
 
 # A Global Database on Whole Life Carbon, Energy and Material Intensity of Buildings (CarbEnMats-Buildings)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8378939.svg)](https://doi.org/10.5281/zenodo.8378939) Data descriptor article (Preprint)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8363895.svg)](https://doi.org/10.5281/zenodo.8363895) Data records / database (this repo)
-
+Pre-release version (230920)
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8378939.svg)](https://doi.org/10.5281/zenodo.8378939) Data descriptor article (Preprint)
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8363895.svg)](https://doi.org/10.5281/zenodo.8363895) Data records / database (this repo)
+* ***Latest version:** Available via https://github.com/mroeck/carbenmats-buildings (main)*
 
 # Abstract
 Globally, interest in understanding the life cycle related greenhouse gas (GHG) emissions of buildings is increasing. Robust data is required for benchmarking and analysis of parameters driving resource use and whole life carbon (WLC) emissions. However, open datasets combining information on energy and material use as well as whole life carbon emissions remain largely unavailable – until now.
